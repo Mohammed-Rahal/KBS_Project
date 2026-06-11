@@ -2,15 +2,6 @@
 
 A **rule-based expert system** that recommends gifts for children based on age, interests, budget, gender, and gift type. Built with **CLIPS** for the inference engine and **Python/Tkinter** for the graphical interface.
 
-![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
-![CLIPS](https://img.shields.io/badge/CLIPS-6.4-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)
-
-<p align="center">
-  <img src="screenshots/gui_screenshot.png" alt="GUI Screenshot" width="700"/>
-</p>
-
 ---
 
 ## 📋 Table of Contents
