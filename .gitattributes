@@ -1,0 +1,8 @@
+*.tcl linguist-language=Python
+*.tcl linguist-vendored
+
+# Hide compiled Python files
+*.pyc linguist-generated
+__pycache__/* linguist-generated
+
+tkinter/* linguist-vendored
